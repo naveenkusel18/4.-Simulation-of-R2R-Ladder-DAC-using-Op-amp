@@ -8,6 +8,7 @@ To Simulate R2R-Ladder DAC using Op-amp
  LT-Spice	
 
 **PROCEDURE**
+
 •	Double click on LT-Spice icon.
 
 •	New schematic window open.
