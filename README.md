@@ -1,4 +1,4 @@
-# 4.-Simulation-of-R2R-Ladder-DAC-using-Op-amp
+# Simulation-of-R2R-Ladder-DAC-using-Op-amp
 **Aim:**
 To Simulate R2R-Ladder DAC using Op-amp
 
@@ -16,9 +16,12 @@ To Simulate R2R-Ladder DAC using Op-amp
  
 
   **CIRCUIT DIAGRAM**
+<img width="1131" height="508" alt="image" src="https://github.com/user-attachments/assets/1c06ff41-d7d8-467b-ab21-4839ae885f4c" />
 
 
   **Output waveform**
+  
+<img width="473" height="766" alt="image" src="https://github.com/user-attachments/assets/3f937c02-d6b7-4119-9288-621b39ea9492" />
 
 
 
